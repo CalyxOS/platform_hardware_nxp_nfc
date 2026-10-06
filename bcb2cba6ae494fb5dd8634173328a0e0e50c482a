@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1b8c5413_fc2ee1e5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2026-10-06T13:12:53Z",
+      "side": 1,
+      "message": "This reverts a security patch from September ASB, however the device is currently randomly unusable. Google has not made a fix yet, this only affects fogo, so let\u0027s go with a revert for now.",
+      "revId": "bcb2cba6ae494fb5dd8634173328a0e0e50c482a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
